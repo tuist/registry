@@ -1,6 +1,6 @@
-# Tuist Cloud - On Premise
+# Tuist Registry
 
-This repository provides the following things to Tuist Cloud on-premise customers.
+This repository is bound to a registry where the on-premise images of the Tuist server are published
 
 | Resource | Description |
 | ---- | --- |
