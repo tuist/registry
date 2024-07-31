@@ -5,7 +5,7 @@ This repository is bound to a registry where the on-premise images of the Tuist 
 | Resource | Description |
 | ---- | --- |
 | [Releases](https://github.com/tuist/cloud-on-premise/releases) | A list of releases along with their release notes. |
-| [tuist](https://github.com/orgs/tuist/packages/container/package/tuist-macos) | The Docker image containing Tuist's service to deploy to Linux environments. |
+| [tuist](https://github.com/orgs/tuist/packages/container/package/tuist) | The Docker image containing Tuist's service to deploy to Linux environments. |
 | [tuist-macos](https://github.com/orgs/tuist/packages/container/package/tuist-macos) | The Docker image containing Tuist's service to run it in macOS environments. |
 
 > [!IMPORTANT]
